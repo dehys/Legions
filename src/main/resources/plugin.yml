@@ -1,0 +1,9 @@
+name: Legions
+version: '${project.version}'
+main: com.dehys.legions.Core
+api-version: 1.18
+prefix: Legions
+load: STARTUP
+authors: [ dehys ]
+description: A Factions styled plugin
+website: https://dehys.com/bukkit/Legions
